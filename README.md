@@ -14,4 +14,4 @@
 
 <br>
 
-[Voor meer info kijk op mijn website:](https://www.simonevanzeijl.nl/PDF/stageverslag.pdf)
+[Voor meer info kijk op mijn website](https://www.simonevanzeijl.nl/PDF/stageverslag.pdf)

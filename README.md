@@ -6,7 +6,7 @@
 <br>
 
 <p align="center">
-  <a href="https://zeijls.github.io/RoyalLines/">
+  <a href="https://zeijls.github.io/Versteghen/">
     <img src="https://img.shields.io/badge/demo-LIVE-brightgreen.svg?style=flat-square" alt="demo">
   </a>
   &nbsp;&nbsp;&nbsp;
